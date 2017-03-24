@@ -30,13 +30,7 @@
 			<scope>test</scope>
 		</dependency>
 
-		
-
 	</dependencies>
-
-	<build>
-		<finalName>wyz.jms.api</finalName>
-	</build>
 
 </project>
 
